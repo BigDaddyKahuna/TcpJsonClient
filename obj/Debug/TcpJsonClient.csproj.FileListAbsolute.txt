@@ -1,0 +1,8 @@
+C:\dev\code\TeamProject\DevProjects\TcpJsonClient\TcpJsonClient\bin\Debug\TcpJsonClient.exe.config
+C:\dev\code\TeamProject\DevProjects\TcpJsonClient\TcpJsonClient\bin\Debug\TcpJsonClient.exe
+C:\dev\code\TeamProject\DevProjects\TcpJsonClient\TcpJsonClient\bin\Debug\TcpJsonClient.pdb
+C:\dev\code\TeamProject\DevProjects\TcpJsonClient\TcpJsonClient\obj\Debug\TcpJsonClient.exe
+C:\dev\code\TeamProject\DevProjects\TcpJsonClient\TcpJsonClient\obj\Debug\TcpJsonClient.pdb
+C:\dev\code\TeamProject\DevProjects\TcpJsonClient\TcpJsonClient\bin\Debug\Newtonsoft.Json.dll
+C:\dev\code\TeamProject\DevProjects\TcpJsonClient\TcpJsonClient\obj\Debug\TcpJsonClient.csproj.CoreCompileInputs.cache
+C:\dev\code\TeamProject\DevProjects\TcpJsonClient\TcpJsonClient\obj\Debug\TcpJsonClient.csproj.CopyComplete
